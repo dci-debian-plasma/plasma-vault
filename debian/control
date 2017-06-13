@@ -25,7 +25,9 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/plasma-vault.git
 
 Package: plasma-vault
 Architecture: any
-Depends: plasma-framework,
+Depends: cryfs,
+         encfs,
+         plasma-framework,
          qml-module-qtquick-layouts,
          qml-module-qtquick2,
          ${misc:Depends},
