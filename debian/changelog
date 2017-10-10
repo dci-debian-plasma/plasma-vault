@@ -1,5 +1,6 @@
-plasma-vault (0.1~git05112017) UNRELEASED; urgency=medium
+plasma-vault (5.11.0-0neon) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * Initial release. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 06 Oct 2016 09:15:27 -0700
+ -- Jonathan Riddell <jr@jriddell.org>  Tue, 10 Oct 2017 18:31:20 +0100
