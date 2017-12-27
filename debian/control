@@ -19,7 +19,7 @@ Build-Depends: cmake (>= 2.8.12),
                qtbase5-dev (>= 5.4.0~),
                qtdeclarative5-dev
 Standards-Version: 4.1.2
-Homepage: http://cukic.co/2017/02/03/vaults-encryption-in-plasma/
+Homepage: https://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/plasma-vault.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/plasma-vault.git
 
