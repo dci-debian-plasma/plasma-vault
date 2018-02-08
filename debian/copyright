@@ -5,6 +5,7 @@ Source: https://cgit.kde.org/plasma-vault.git/
 
 Files: *
 Copyright: 2015-2017, Ivan Cukic <ivan.cukic@kde.org>
+           2017, Kees vd Broek <cryptodude@libertymail.net>
            2017, This_file_is_part_of_KDE
 License: GPL-2+3+KDEeV
 
